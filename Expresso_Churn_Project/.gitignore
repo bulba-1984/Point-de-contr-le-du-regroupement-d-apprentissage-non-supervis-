@@ -1,0 +1,7 @@
+venv/
+*.csv
+*.xlsx
+*.parquet
+*.json
+__pycache__/
+*.pyc
